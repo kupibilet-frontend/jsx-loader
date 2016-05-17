@@ -1,0 +1,29 @@
+{
+  "name": "jsx-loader",
+  "version": "0.9.0",
+  "description": "JSX loader for webpack",
+  "main": "index.js",
+  "dependencies": {
+    "react-tools": "~0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "webpack",
+    "jsx"
+  ],
+  "author": {
+    "name": "Pete Hunt"
+  },
+  "license": "Apache 2",
+  "readme": "# JSX loader for webpack\n",
+  "readmeFilename": "README.md",
+  "_id": "jsx-loader@0.9.0",
+  "dist": {
+    "shasum": "fb7c85a609f8de27b3e712a870f1cd8a0cc24e35"
+  },
+  "_resolved": "git://github.com/andreypopp/jsx-loader.git#3dbc14c86088400ddf63c4a5c855a2742942d86c",
+  "_from": "jsx-loader@git://github.com/andreypopp/jsx-loader.git"
+}
